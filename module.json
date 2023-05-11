@@ -2,12 +2,12 @@
     "id": "pf2e-ljs-sturdy-shields",
     "name": "pf2e-ljs-sturdy-shields",
     "title": "LJ's Sturdy Shields",
-    "description": "A compendium of Sturdy versions of all basic shields in PF2e",
+    "description": "A collection of my content.",
     "version": "1.0.0",
     "authors": [
         {
             "name": "LJSmith",
-            "discord": "LJSmith#0203",
+            "discord": "LJSmith#0203"
         }
     ],
     "minimumCoreVersion": "0.8.6",
@@ -20,10 +20,10 @@
         {
             "name": "pf2e-ljs-sturdy-shields",
             "label": "LJ's Sturdy Shields",
-            "path": "./packs/ljs-sturdy-shields",
+            "path": "./packs/ljs-sturdy-shields.db",
             "entity": "Item",
             "type": "Item",
-            "system": "PF2e"
+            "system": "pf2e"
         }
     ],
     "manifest": "https://github.com/LJSmith066/LJs-Sturdy-Shields/blob/main/module.json",
