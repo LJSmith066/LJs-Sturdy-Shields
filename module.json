@@ -26,6 +26,6 @@
             "system": "PF2e"
         }
     ],
-    "manifest": "https://github.com/LJSmith066/LJs-Sturdy-Shields/-/raw/main/module.json",
-    "download": "https://github.com/LJSmith066/LJs-Sturdy-Shields/-/raw/main/my-content-module.zip"
+    "manifest": "https://github.com/LJSmith066/LJs-Sturdy-Shields/blob/main/module.json",
+    "download": "https://github.com/LJSmith066/LJs-Sturdy-Shields/archive/refs/heads/main.zip"
   }
