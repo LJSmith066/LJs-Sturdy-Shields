@@ -19,7 +19,7 @@
     "packs": [
         {
             "name": "pf2e-ljs-sturdy-shields",
-            "label": "LJ's Sturdy Shields",
+            "label": "LJs Sturdy Shields",
             "path": "./packs/ljs-sturdy-shields.db",
             "entity": "Item",
             "type": "Item",
