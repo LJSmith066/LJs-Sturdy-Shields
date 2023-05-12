@@ -26,6 +26,6 @@
             "system": "pf2e"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/LJSmith066/LJs-Sturdy-Shields/main/module.json",
+    "manifest": "https://github.com/LJSmith066/LJs-Sturdy-Shields/raw/main/module.json",
     "download": "https://github.com/LJSmith066/LJs-Sturdy-Shields/raw/main/pf2e-ljs-sturdy-shields.zip"
   }
