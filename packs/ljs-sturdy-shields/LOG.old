@@ -1,0 +1,13 @@
+2023/07/21-12:18:10.639 a340 Recovering log #18
+2023/07/21-12:18:10.643 a340 Delete type=0 #18
+2023/07/21-12:18:10.643 a340 Delete type=3 #17
+2023/07/21-12:18:56.894 b250 Level-0 table #22: started
+2023/07/21-12:18:56.894 b250 Level-0 table #22: 0 bytes OK
+2023/07/21-12:18:56.895 b250 Delete type=0 #20
+2023/07/21-12:18:56.897 b250 Manual compaction at level-0 from '!items!3I5lpX0rfVpKEliX' @ 72057594037927935 : 1 .. '!items!zxv3ywPHCx0G7kCV' @ 0 : 0; will stop at '!items!zxv3ywPHCx0G7kCV' @ 90 : 1
+2023/07/21-12:18:56.897 b250 Compacting 1@0 + 0@1 files
+2023/07/21-12:18:56.902 b250 Generated table #23@0: 90 keys, 79051 bytes
+2023/07/21-12:18:56.902 b250 Compacted 1@0 + 0@1 files => 79051 bytes
+2023/07/21-12:18:56.903 b250 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/07/21-12:18:56.903 b250 Delete type=2 #5
+2023/07/21-12:18:56.909 b250 Manual compaction at level-0 from '!items!zxv3ywPHCx0G7kCV' @ 90 : 1 .. '!items!zxv3ywPHCx0G7kCV' @ 0 : 0; will stop at (end)
