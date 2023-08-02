@@ -1,31 +1,33 @@
 {
-    "id": "pf2e-ljs-sturdy-shields",
-    "name": "pf2e-ljs-sturdy-shields",
-    "title": "LJ's Sturdy Shields",
-    "description": "A compendium pack for Sturdy variants of all basic shields.",
-    "version": "1.0.0",
-    "authors": [
-        {
-            "name": "LJSmith",
-            "discord": "LJSmith#0203"
-        }
-    ],
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9",
-    "compatibility": {
-        "minimum": "0.8.6",
-        "verified": "11"
-    },
-    "packs": [
-        {
-            "name": "pf2e-ljs-sturdy-shields",
-            "label": "LJ's Sturdy Shields",
-            "path": "./packs/ljs-sturdy-shields.db",
-            "entity": "Item",
-            "type": "Item",
-            "system": "pf2e"
-        }
-    ],
-    "manifest": "https://github.com/LJSmith066/LJs-Sturdy-Shields/raw/main/module.json",
-    "download": "https://github.com/LJSmith066/LJs-Sturdy-Shields/raw/main/pf2e-ljs-sturdy-shields.zip"
-  }
+  "id": "pf2e-ljs-sturdy-shields",
+  "title": "PF2e-LJs Sturdy Shields",
+  "description": "A compendium of Sturdy versions of all basic shields in PF2e.",
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "LJSmith",
+      "discord": "LJSmith",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "pf2e-ljs-sturdy-shields",
+      "label": "LJ's Sturdy Shields",
+      "path": "packs/ljs-sturdy-shields",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
